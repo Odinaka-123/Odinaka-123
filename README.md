@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## BRIEF BIO
-Web Developer | UI/UX | DBM {Mongo, SQL} | Wordpress
+Frontend Engineer 
 
 Passionate about creating seamless digital experiences, I’m a web developer and virtual assistant with a keen eye for design and functionality. I love helping businesses and individuals bring their ideas to life. Let’s connect and create something amazing together!
 
