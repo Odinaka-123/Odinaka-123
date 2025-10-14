@@ -27,5 +27,5 @@ I believe the best way to **learn is by building**, and I’m always looking for
 ## 📫 Connect with Me
 - [Portfolio](https://github.com/odiezurike.vercel.app)  
 - [Twitter](https://twitter.com/ezurikeodinaka)  
-- [LinkedIn](https://linkedin.com/in/odiezurike)
+- [LinkedIn](https://www.linkedin.com/in/odi-ezurike-569a21352/)
 
