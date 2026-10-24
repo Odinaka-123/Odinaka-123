@@ -1,6 +1,6 @@
 # Hi there, I'm Odinaka 👋
 
-I'm a **Fullstack Developer** and the **Founder of [@kakka-tech](https://github.com/kakka-tech)**, a growing tech company focused on building impactful solutions and digital products. I love **creating things that solve real problems** and helping others grow along the way.  
+I'm a **Software Engineer** and the **Founder of [@kakka-tech](https://github.com/kakka-tech)**, a growing tech company focused on building impactful solutions and digital products. I love **creating things that solve real problems** and helping others grow along the way.  
 
 ---
 
